@@ -24,7 +24,7 @@ A single-page interactive web application designed to help competitive programme
 3.  **Matrix Multiplication:** Traces the 3-nested loops of $O(N \times M \times P)$ matrix multiplication, highlighting row-by-column calculations dynamically.
 
 ## Live Demo 🌐
-*(Add your live project link here, e.g., https://yourusername.github.io/Algorithm-Visualizer/)*
+You can try the visualizer directly here: [Math Number Theory Concepts Visualizer](https://EmanElsharabasy.github.io/Math-Number-Theory-Concepts-Visualizer/)
 
 ## Getting Started 🛠
 
@@ -36,8 +36,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 ### Installation & Running
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Algorithm-Visualizer.git](https://github.com/YourUsername/Algorithm-Visualizer.git)
-   ```
+   git clone [https://github.com/EmanElsharabasy/Math-Number-Theory-Concepts-Visualizer.git](https://github.com/EmanElsharabasy/Math-Number-Theory-Concepts-Visualizer.git)
 2. Navigate to the project directory:
    ```bash
    cd Algorithm-Visualizer
