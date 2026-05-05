@@ -1,9 +1,7 @@
 
-  # Math & Number Theory Concepts Visualizer
+  # Math & Number Theory Concepts Visualizer 🚀
 
   This is a code bundle for Math Concepts Visualizer. The original project is available at https://www.figma.com/design/Ra0kweRvSPWs2cj63o5NwU/Math-Concepts-Visualizer.
-
-# AlgoVis: Math & Number Theory Concepts Visualizer 🚀
 
 ## Overview
 A single-page interactive web application designed to help competitive programmers and computer science students visualize complex algorithms step-by-step. The application simulates a real debugging experience, allowing users to trace code execution, understand internal states, and intuitively grasp Time and Space complexities.
@@ -39,7 +37,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
    git clone [https://github.com/EmanElsharabasy/Math-Number-Theory-Concepts-Visualizer.git](https://github.com/EmanElsharabasy/Math-Number-Theory-Concepts-Visualizer.git)
 2. Navigate to the project directory:
    ```bash
-   cd Algorithm-Visualizer
+   cd Math-Number-Theory-Concepts-Visualizer
    ```
 3. Install the required dependencies:
    ```bash
