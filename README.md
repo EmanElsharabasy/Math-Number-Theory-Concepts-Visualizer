@@ -21,8 +21,6 @@ A single-page interactive web application designed to help competitive programme
     *   *Phase 2:* Visualizes $O(\log N)$ fast prime factorization for multiple queries, extracting prime factors into a dynamic UI list.
 3.  **Matrix Multiplication:** Traces the 3-nested loops of $O(N \times M \times P)$ matrix multiplication, highlighting row-by-column calculations dynamically.
 
-## Live Demo 🌐
-You can try the visualizer directly here: [Math Number Theory Concepts Visualizer](https://EmanElsharabasy.github.io/Math-Number-Theory-Concepts-Visualizer/)
 
 ## Getting Started 🛠
 
