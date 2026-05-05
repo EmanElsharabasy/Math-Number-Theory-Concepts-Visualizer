@@ -34,7 +34,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 ### Installation & Running
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/EmanElsharabasy/Math-Number-Theory-Concepts-Visualizer.git](https://github.com/EmanElsharabasy/Math-Number-Theory-Concepts-Visualizer.git)
+   git clone https://github.com/EmanElsharabasy/Math-Number-Theory-Concepts-Visualizer.git
 2. Navigate to the project directory:
    ```bash
    cd Math-Number-Theory-Concepts-Visualizer
